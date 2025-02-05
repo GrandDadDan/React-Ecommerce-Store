@@ -31,7 +31,7 @@ const Types = () => {
           color: "yellow"
         }}>60% Off</h1>
         <h1 className='text-4x1 text-end text-white font-semibold'>Wireless <br />Devices</h1>
-        <button className='px-6 py-3 rounded-lg text-black font-semibold' style={{background: "yellow"}}>SHOP NOW</button>
+        <button className='px-6 py-3 rounded-lg text-black font-semibold  cursor-pointer' style={{background: "yellow"}}>SHOP NOW</button>
       </div>
       <div data-aos="zoom-in" data-aos-delay= "100" className='flex flex-col justify-center
       items-end gap-6 bg-cover bg-center p-10 rounded-lg' style={{
@@ -42,7 +42,7 @@ const Types = () => {
           color: "yellow"
         }}>60% Off</h1>
         <h1 className='text-4x1 text-end text-white font-semibold'>Wireless <br />Devices</h1>
-        <button className='px-6 py-3 rounded-lg text-black font-semibold' style={{background: "yellow"}}>SHOP NOW</button>
+        <button className='px-6 py-3 rounded-lg text-black font-semibold  cursor-pointer' style={{background: "yellow"}}>SHOP NOW</button>
       </div>
       <div data-aos="zoom-in" data-aos-delay= "100" className='flex flex-col justify-center
       items-end gap-6 bg-cover bg-center p-10 rounded-lg' style={{
@@ -53,7 +53,7 @@ const Types = () => {
           color: "yellow"
         }}>60% Off</h1>
         <h1 className='text-4x1 text-end text-white font-semibold'>Wireless <br />Devices</h1>
-        <button className='px-6 py-3 rounded-lg text-black font-semibold' style={{background: "yellow"}}>SHOP NOW</button>
+        <button className='px-6 py-3 rounded-lg text-black font-semibold  cursor-pointer' style={{background: "yellow"}}>SHOP NOW</button>
       </div>
       
     </div>
