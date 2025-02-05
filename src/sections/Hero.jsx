@@ -43,7 +43,7 @@ const Hero = () => {
           className='text-white text-2x1'
           >100% Trustes <span
           className='text-yellow font-semibold' style={{color: 'yellow'}}>Electronics Gadgets</span></h1>
-          <button className="bg-themeyellow px-6 py-3 rounded-lg text-black font-semibold" style={{background: 'yellow'}} data-aos = "zoom-in" data-aos-delay= "100">ONLINE COLLECTIONS</button>
+          <button className="bg-themeyellow cursor-pointer px-6 py-3 rounded-lg text-black font-semibold " style={{background: 'yellow'}} data-aos = "zoom-in" data-aos-delay= "100">ONLINE COLLECTIONS</button>
           </div>
         </div>
         <div>
