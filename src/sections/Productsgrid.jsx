@@ -4,7 +4,7 @@ import { MdAddShoppingCart,MdOutlineRemoveRedEye } from 'react-icons/md'
 import Aos from 'aos';
 import "aos/dist/aos.css"
 import { products } from '../export';
-
+import "tailwindcss";
 const eyeIcon = {
   backgroundColor: "rgb(80,46,198)",
   
