@@ -19,11 +19,11 @@ const Category = () => {
         aos.refresh();
         }, [])
   return (
-    <div id='category' className=' w-full bg-grey-100 lg:px-20 px-5 pt-[130px] pb-[80px] flex lg:flex-row flex-col justify-center align-items-center items-center gap-20'>
+    <div id='category' className=' w-full bg-gray-100 lg:px-20 px-5 pt-[130px] pb-[80px] flex lg:flex-row flex-col justify-center align-items-center items-center gap-20'>
       <div data-aos ="zoom-in" data-aos-delay= "50" className='lg:w-[15%] w-ful flex flex-col justify-center lg:items-start items-center gap-[20px]'> 
-        <h1 className='text-themepurple text-xl font-semibold text-center' style={{color: 'purple'}}>Favorites Item</h1>
+        <h1 className='text-themepurple text-xl font-semibold text-center' style={{color:"#502ec3"}}>Favorites Item</h1>
       <h1 className='text-black font-semibold text-[42px] leading-[50px] lg:text-start lg:text-center'>Popular Category</h1>
-      <button className='bg-black text-white px-8 py-3 rounded-lg font-semibold mt-[60px] cursor-pointer'>VIEW ALL</button>
+      <button className='bg-black text-white px-8 py-3 rounded-lg font-semibold mt-[60px] cursor-pointer' style={{background:"#502ec3"}}>VIEW ALL</button>
      
       </div>
       <div className='lg:w-[85%] w-full grid lg:grid-cols-5 grid-cols-1 justify-center items-start gap-10'>
@@ -37,15 +37,15 @@ const Category = () => {
     </div>
     <div data-aos= "zoom-in" data-aos-delays="300" className='flex flex-col justify-center items-center gap-6'>
       <img src={cat3} alt="" className='rounded-full cursor-pointer'/>
-      <h1 className='text-black text-xl font-semibold hover:text-purple cursor-pointer'>Portable Speakers</h1>
+      <h1 className='text-black text-xl font-semibold hover:text-purple cursor-pointer'>Accessories</h1>
     </div>
     <div data-aos= "zoom-in" data-aos-delays="400" className='flex flex-col justify-center items-center gap-6'>
       <img src={cat4} alt="" className='rounded-full cursor-pointer'/>
-      <h1 className='text-black text-xl font-semibold hover:text-purple cursor-pointer'>Portable Speakers</h1>
+      <h1 className='text-black text-xl font-semibold hover:text-purple cursor-pointer'>Storage Devices</h1>
     </div>
     <div data-aos= "zoom-in" data-aos-delays="500" className='flex flex-col justify-center items-center gap-6'>
       <img src={cat5} alt="" className='rounded-full cursor-pointer'/>
-      <h1 className='text-black text-xl font-semibold hover:text-purple cursor-pointer'>Portable Speakers</h1>
+      <h1 className='text-black text-xl font-semibold hover:text-purple cursor-pointer'>Cameras</h1>
     </div>
       </div>
     </div >
