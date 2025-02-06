@@ -13,7 +13,7 @@ const Reviews = () => {
     dots: true,
     infinite: true,
     speed: 500,
-    slidesToShow: 1,
+    slidesToShow: 2,
     slidesToScroll: 1,
     arrowsL: false,
     responsive: [
@@ -75,8 +75,9 @@ const Reviews = () => {
                       {item.para}</p>
                       <div className='flex justify-center items-center gap-5'>
                           <FaQuoteLeft className='fill-purple size-16' style={{color:"#502ec3"}}/>
-                          <div>
-                            <h1>{item.post}</h1>
+                          <div className='w-full flex flex-col just'>
+                            <h1 className='text-black text-xl capitalize font-semibold'>{item.name}</h1>
+                            <h1 className='text-gray-500 capitalize'>{item.post}</h1>
                           </div>
                       </div>
                   </div>
