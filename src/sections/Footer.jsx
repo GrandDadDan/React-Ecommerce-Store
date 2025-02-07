@@ -46,7 +46,7 @@ const Footer = () => {
       <div data-aos="zoom-in" data-aos-delay="200" className='flex flex-col justify-center
       justify-center items-start gap-10 grow'>
         <div className='flex flex-col justify-center items-start gap-4'>
-          <h1 className='text-4xl font-bold underline italic' style={{color:"#502ec3"}}>Pengu Shop</h1>
+          <h1 className='text-4xl font-bold underline italic' style={{color:"#502ec3"}}>Electra Shop</h1>
           <p className='text-gray-500 text-justify'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Earum aperiam et, fugiat expedita quidem minus veniam nobis deleniti dolores iste!</p>
         </div>
         <div className='flex flex-col justify-center items-start gap-4'>

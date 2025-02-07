@@ -34,7 +34,7 @@ const Insta = () => {
 
     </div>
     <button data-aos="zoom-in" data-aos-delay="400" className='font-semibold px-8 py-3
-    rounded-lg mt-12 text-white' style={{background:"#502ec3"}}>#PenguShop</button>
+    rounded-lg mt-12 text-white' style={{background:"#502ec3"}}>#ElectraShop</button>
     </div>
   )
 }

@@ -14,3 +14,44 @@
    }
     
 }
+
+#nav:hover{
+    color: white;
+    background-color: #502ec3;
+    
+}
+
+#search:hover{
+    color: #502ec3;
+}
+#person:hover{
+    color: #502ec3;
+}
+#heart:hover{
+    color: #502ec3;
+}
+#cart:hover{
+    color: #502ec3;
+}
+
+#cart-items{
+    background-color:#502ec3 ;
+}
+
+#cart-items:hover{
+    background-color: yellow;
+    color: #502ec3;
+}
+
+#mobile-nav {
+    color: #502ec3;
+}
+
+#nav-ul {
+    background-color: #502ec3;
+    
+}
+#mobile-nav-menu:hover {
+    background-color: yellow;
+
+}
