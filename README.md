@@ -1,8 +1,5 @@
-# React + Vite
+<h1>Electra Shop</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a ecommerce store that I created using tailwind css and react js. I feel that this store really shows off my creativity frontend development. Link to Website: https://eleactrashopreactapp.netlify.app/
