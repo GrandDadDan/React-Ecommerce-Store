@@ -24,7 +24,7 @@ const Insta = () => {
     justify-center items-center gap-4'>
     <h1 data-aos="zoom-in" data-aos-delay="100" className='text-xl font-semibold capitalize' style={{color: "#502ec3"}}>Our Instagram Shop</h1>
     <h1 data-aos="zoom-in" data-aos-delay="200" className='text-black font-semibold text-[42px] leading-[50px] text-center capitalize'>Follow on Instagram</h1>
-    <div data-aos="zoom-in" data-aos-delay="300" className='w-full grid lg:grid-cols-1 justify-center items center gap-6 mt-8'>
+    <div data-aos="zoom-in" data-aos-delay="300" className='w-full grid lg:grid-cols-6 lg:grid-cols-1 justify-center items center gap-6 mt-8'>
       <img src={insta1} alt="" className='rounded-lg'/>
       <img src={insta2} alt="" className='rounded-lg'/>
       <img src={insta3} alt="" className='rounded-lg'/>
